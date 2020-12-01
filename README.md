@@ -33,7 +33,7 @@ Talk about how the fade works, here....
 [LED Fade on Arduino Create](https://create.arduino.cc/editor/helmstk1/9e044cca-43d7-4d93-885f-e6dec5b4f769/preview)
 
 ### Images
-<img src="BLINK CODE" alt="Blink Code" width="200">
+<img src"images/LED FADE CODE.png" alt="Blink Code" width="200">
 ### Reflection
 
 ## HelloFunctions
