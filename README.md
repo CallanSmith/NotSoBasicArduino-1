@@ -35,7 +35,7 @@ Talk about how the fade works, here....
 ### Images
 <img src="LED FADE CODE.png" alt="Code for LED fade" width="200">
 ### Reflection
-
+This asingment was pretty easy, because all you had to do was copy the code from arduino itself.
 ## HelloFunctions
 
 ### Description & Code
